@@ -13,8 +13,8 @@ See the following notes on how to run the project local system and deploy projec
 + Open Your browser put inside URL: "http://localhost/php/ecom/”
 + To Login as admin : ”http://localhost/php/ecom/admin/”
 
-Admin User-ID: admin
-Admin password: admin
+-Admin User-ID: admin
+-Admin password: admin
 ## Deployment
 + client side : https://groci-foodbasket.000webhostapp.com/index.php
 + admin side : https://groci-foodbasket.000webhostapp.com/admin/login.php
