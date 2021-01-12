@@ -14,6 +14,7 @@ See the following notes on how to run the project local system and deploy projec
 + To Login as admin : ”http://localhost/php/ecom/admin/”
 
 Admin User-ID: admin
+
 Admin password: admin
 ## Deployment
 #### Hosting was done on 000webhostapp.com
